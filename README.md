@@ -4,7 +4,7 @@ KM-StickyHeader for Android RecyclerView
 
 You can make sticky items in recyclerview with this library.
 
-![Alt Text](https://media.giphy.com/media/1xVc3pqlRbwJIn9ebv/giphy.gif)
+![Alt Text](https://media.giphy.com/media/SG0BoyZYBPOmgR3gbL/giphy.gif)
 # Usage
 -------------
 Use KmRecyclerView component for show your items. 
